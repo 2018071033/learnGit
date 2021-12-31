@@ -1,4 +1,2 @@
-to learn git
-Create a new git branch(test1). 
-test2.
-Create dev.
+learn git.
+there is master brancn.
